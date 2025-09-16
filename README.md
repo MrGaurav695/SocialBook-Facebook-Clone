@@ -34,7 +34,6 @@ This project replicates the look and feel of Facebook while focusing on **respon
 1. Clone this repository  
    ```bash
    git clone https://github.com/your-username/SocialBook-Facebook-Clone.git
----
 
 2.Open index.html in your browser
 
